@@ -1,4 +1,4 @@
-# Autofill
+# Next-Word-Prediction
 
 A model to suggest the next word(s) within a **closed domain** from a given set of words entered by the user. With the help of this bot or app we can constrain the user's questions to our knowledge domain and hence **avoid ambiguity** in finding answer it will also help to **reduce the user’s keystroke time** and will also **improve the typing accuracy**.
 ****
@@ -50,7 +50,4 @@ A model to suggest the next word(s) within a **closed domain** from a given set 
 
    - `./data/Model_Template.py` : We use this file to create different variations of the model.
 
-### TODO:
-
-To improve the README.md
 
